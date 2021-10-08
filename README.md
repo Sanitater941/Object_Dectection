@@ -18,4 +18,4 @@ There is coco.names.txt file: https://github.com/pjreddie/darknet/blob/master/da
 
 Object_Dectection of test2.jpg
 
-![캡처](https://user-images.githubusercontent.com/73449937/136505652-95ecb788-d9b1-4670-a15d-4cf07fc9d97b.PNG)
+![캡처](https://user-images.githubusercontent.com/73449937/136505724-1d4b8a5b-42d1-438f-aecb-938896990d9f.PNG)
